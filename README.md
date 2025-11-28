@@ -1,16 +1,1 @@
 # -Game-Store-Full-Web-Project
-game-store/
-├── index.html
-├── cart.html
-├── login.html
-├── signup.html
-├── style.css
-├── script.js
-├── products.json
-└── backend/
-    ├── node/
-    │   ├── server.js
-    │   └── products.json
-    └── php/
-        ├── api_products.php
-        └── api_cart.php
