@@ -1,0 +1,6 @@
+<svg width="240" height="70" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="70" rx="12" fill="#1a1a1a"/>
+  <text x="20" y="45" font-family="Arial" font-size="28" fill="#ff4500">
+    🎮 Game Store
+  </text>
+</svg>
