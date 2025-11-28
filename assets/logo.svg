@@ -1,0 +1,10 @@
+game-store/
+├── assets/
+│   ├── logo.svg
+│   ├── logo-mark.svg        (square mark-only)
+│   ├── icon-home.svg
+│   ├── icon-docs.svg
+│   └── icon-github.svg
+├── index.html               <-- GitHub Pages landing page (uses SEO meta)
+├── style.css                <-- small page CSS (included below)
+...other project files...
