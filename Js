@@ -1,0 +1,2 @@
+const PRODUCTS_ENDPOINT = '/api/api_products.php';
+const CART_ENDPOINT = '/api/api_cart.php';
